@@ -1,0 +1,16 @@
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.exe
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.deps.json
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.runtimeconfig.json
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.runtimeconfig.dev.json
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.dll
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\ref\OS3_LAB.dll
+C:\Users\Ksenia\source\repos\OS3_LAB\bin\Debug\net5.0\OS3_LAB.pdb
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.AssemblyInfoInputs.cache
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.AssemblyInfo.cs
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.dll
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\ref\OS3_LAB.dll
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.pdb
+C:\Users\Ksenia\source\repos\OS3_LAB\obj\Debug\net5.0\OS3_LAB.genruntimeconfig.cache

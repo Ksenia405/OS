@@ -1,0 +1,64 @@
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.exe
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.deps.json
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.json
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.dev.json
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\source\repos\OS2_LAB\bin\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfoInputs.cache
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfo.cs
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\source\repos\OS2_LAB\obj\Debug\net5.0\OS2_LAB.genruntimeconfig.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.exe
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.deps.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.dev.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\bin\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.AssemblyReference.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfoInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfo.cs
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\OS2_LAB\obj\Debug\net5.0\OS2_LAB.genruntimeconfig.cache
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.exe
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.deps.json
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.json
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.dev.json
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.dll
+C:\Users\пк\OS2_LAB\bin\Debug\net5.0\OS2_LAB.pdb
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.AssemblyReference.cache
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfoInputs.cache
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfo.cs
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.CoreCompileInputs.cache
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.dll
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\refint\OS2_LAB.dll
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.pdb
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\OS2_LAB.genruntimeconfig.cache
+C:\Users\пк\OS2_LAB\obj\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.exe
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.deps.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.runtimeconfig.dev.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\bin\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.AssemblyReference.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfoInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.AssemblyInfo.cs
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\ref\OS2_LAB.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\OS2_LAB\OS2_LAB\obj\Debug\net5.0\OS2_LAB.genruntimeconfig.cache
